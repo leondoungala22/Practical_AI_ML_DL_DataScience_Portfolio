@@ -109,9 +109,3 @@ jupyter notebook main.ipynb
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-[Your Name] - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
-Project Link: [https://github.com/username/employee-clustering-analysis](https://github.com/username/employee-clustering-analysis)
